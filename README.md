@@ -1,11 +1,11 @@
-# WBTC DAO 
+# BTCR DAO 
 Multisig wallet: [`0xB33f8879d4608711cEBb623F293F8Da13B8A37c5`](https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5)
 
 ~Old multisig wallet: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)~ (Deprecated)
 
 
-## WBTC important addresses
-WBTC token [`0x2260fac5e5542a773aa44fbcfedf7c193bc2c599`](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
+## BTCR important addresses
+BTCR token [`0x2260fac5e5542a773aa44fbcfedf7c193bc2c599`](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
 
 token controller [`0xca06411bd7a7296d7dbdd0050dfc846e95febeb7
 `](https://etherscan.io/address/0xca06411bd7a7296d7dbdd0050dfc846e95febeb7)
@@ -49,7 +49,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 
 This merchant list is not updated in real time. To check active merchants, use the `getMerchants` function in the [Members contract](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5#readContract#F6).
 
-The merchants' guide for how to mint and burn WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
+The merchants' guide for how to mint and burn BTCR can be found [here](https://github.com/BTCr-Dev/DAO/blob/master/MerchantGuide.md).
 
 ## DAO Members
 |   |      |         | Announcement |
@@ -68,9 +68,9 @@ The merchants' guide for how to mint and burn WBTC can be found [here](https://g
 |12| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
 |13| Gopax|[`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 
-## Auditing the WBTC system
+## Auditing the BTCR system
 
-A guide on how to verify the WBTC code and configurations can be found [here](https://github.com/WrappedBTC/DAO/blob/master/DeploymentVerification.md)
+A guide on how to verify the BTCR code and configurations can be found [here](https://github.com/BTCr-Dev/DAO/blob/master/DeploymentVerification.md)
 
 
 
